@@ -1,0 +1,4 @@
+interface:
+  display_name: "Chat to Notes｜把零散表达整理成可用笔记"
+  short_description: "按内容关系组织层级，保留重要任务、具体想法与个人表达，整理成可继续使用的文档"
+  default_prompt: "请使用 $chat-to-notes-skill 整理这些群聊或零散文字，保留重要内容，并把暂时无法归类的内容放到文末。"
